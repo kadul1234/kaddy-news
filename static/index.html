@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World News Map</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<header id="header">
+  <div class="brand">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
+      <circle cx="12" cy="12" r="10"/>
+      <path d="M2 12h20M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/>
+    </svg>
+    World News
+  </div>
+  <div id="status"><span class="dot"></span>Loading…</div>
+</header>
+
+<svg id="map"></svg>
+
+<div id="tooltip">
+  <div class="tip-name" id="tip-name"></div>
+  <div class="tip-count" id="tip-count"></div>
+</div>
+
+<div id="legend">
+  <div class="legend-row"><div class="lg-dot has"></div>Has articles</div>
+  <div class="legend-row"><div class="lg-dot none"></div>No articles</div>
+</div>
+
+<div id="zoom-controls">
+  <button class="zoom-btn" id="btn-zoom-in"  title="Zoom in">+</button>
+  <button class="zoom-btn" id="btn-zoom-out" title="Zoom out">−</button>
+  <button class="zoom-btn" id="btn-reset"    title="Reset view">⌂</button>
+</div>
+
+<div id="backdrop"></div>
+
+<aside id="panel">
+  <div id="panel-header">
+    <button id="close-btn" title="Close">✕</button>
+    <h2 id="panel-country"></h2>
+    <p id="panel-meta"></p>
+  </div>
+  <div id="articles-list"></div>
+</aside>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="/app.js"></script>
+
+</body>
+</html>
