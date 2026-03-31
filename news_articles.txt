@@ -1,9 +1,9 @@
 ================================================================================
                           NEWS ARTICLES REPORT
 ================================================================================
-Generated : 2026-03-31 08:41 UTC
-Total     : 50 articles
-Countries : 18
+Generated : 2026-03-31 09:11 UTC
+Total     : 49 articles
+Countries : 21
 ================================================================================
 
 
@@ -15,7 +15,7 @@ Countries : 18
      Source   : ABC Australia
      Published: 2026-03-31 08:31 UTC
      URL      : https://www.abc.net.au/news/2026-03-31/socceroos-vs-cura%C3%A7ao-fifa-series-friendly-melbourne-live-blog/106517182
-     Summary  : The Socceroos face Curaçao in FIFA series at Melbourne Rectangular Stadium, in their final friendly at home before June's World Cup in North America. Follow live.
+     Summary  : The Socceroos face Curaçao in the FIFA series at Melbourne Rectangular Stadium, in their final friendly at home before June's World Cup in North America. Follow live.
 
   2. 'Evil inside him': Dezi Freeman's nephew speaks out on cop killer uncle's death
      Source   : ABC Australia
@@ -25,16 +25,22 @@ Countries : 18
 
 
 ================================================================================
-  COUNTRY: Brazil  (2 articles)
+  COUNTRY: Brazil  (3 articles)
 ================================================================================
 
-  1. Brazil Election Update: Caiado In, Leite Out, and the Center Has Vanished
+  1. Strategy Pauses BTC Buying After 13-Week Streak
+     Source   : Rio Times
+     Published: 2026-03-31 08:53 UTC
+     URL      : https://www.riotimesonline.com/strategy-pauses-btc-buying-13-week-streak-brandt-2027/
+     Summary  : Bitcoin &#38; Crypto Daily Report · March 31, 2026 · Covering March 30 Session BTC Price $67,405 ▲ +0.18% · holding $67K H: $68,380 · L: $66,195 ETH Price $2,057 ▲ +0.61% · above $2K H: $2,092 · L: $2...
+
+  2. Brazil Election Update: Caiado In, Leite Out, and the Center Has Vanished
      Source   : Rio Times
      Published: 2026-03-31 08:37 UTC
      URL      : https://www.riotimesonline.com/brazil-2026-election-caiado-psd-right-splinters/
      Summary  : Key Points — Goiás Governor Ronaldo Caiado was confirmed Monday as PSD&#8217;s presidential candidate for October 2026, chosen by party boss Gilberto Kassab over Eduardo Leite after Ratinho Júnior wit...
 
-  2. Global Economy Briefing — March 31, 2026
+  3. Global Economy Briefing — March 31, 2026
      Source   : Rio Times
      Published: 2026-03-31 08:23 UTC
      URL      : https://www.riotimesonline.com/global-economy-briefing-powell-hold-german-cpi-surge/
@@ -42,33 +48,82 @@ Countries : 18
 
 
 ================================================================================
+  COUNTRY: Canada  (1 articles)
+================================================================================
+
+  1. Wenger's proposed 'daylight' offside rule to begin trial in Canada
+     Source   : Japan Times
+     Published: 2026-03-31 08:57 UTC
+     URL      : https://www.japantimes.co.jp/sports/2026/03/31/soccer/wenger-daylight-offside-canada/
+     Summary  : Under the new approach, an ⁠attacking player will be ruled offside only if there is a ⁠clear gap, or "daylight," between the attacker and the defender.
+
+
+================================================================================
+  COUNTRY: Chile  (1 articles)
+================================================================================
+
+  1. Chilean IPSA Tests 10,567 but Reverses to Flat as Sellers Reject Breakout
+     Source   : Rio Times
+     Published: 2026-03-31 09:01 UTC
+     URL      : https://www.riotimesonline.com/chile-ipsa-today-tests-10567-closes-flat/
+     Summary  : Rio Times Daily Market Brief • Chile Tuesday, March 31, 2026 · Covering the session of Monday, March 30 The Big Three 1. The IPSA staged a powerful intraday rally to 10,567 — its highest level since e...
+
+
+================================================================================
   COUNTRY: China  (1 articles)
 ================================================================================
 
-  1. FM Dar departs on brief visit to China for ‘in-depth’ talks on regional developments
+  1. China bans entombing cremated remains in empty flats
      Source   : Dawn
-     Published: 2026-03-31 08:06 UTC
-     URL      : https://www.dawn.com/news/1987106/fm-dar-departs-on-brief-visit-to-china-for-in-depth-talks-on-regional-developments
-     Summary  : Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday departed for a one-day visit to China for “in-depth discussions on regional developments”, according to the Foreign Office (FO). The dis...
+     Published: 2026-03-31 08:47 UTC
+     URL      : https://www.dawn.com/news/1987150/china-bans-entombing-cremated-remains-in-empty-flats
+     Summary  : Chinese authorities have banned entombing cremated remains in cheap apartments, a practice that had gained popularity as mourners took advantage of the subdued housing market to dodge rising funeral c...
 
 
 ================================================================================
-  COUNTRY: India  (3 articles)
+  COUNTRY: Colombia  (1 articles)
 ================================================================================
 
-  1. Food price rises unlikely before summer, says boss of Sainsbury’s
-     Source   : The Guardian
-     Published: 2026-03-31 08:01 UTC
-     URL      : https://www.theguardian.com/business/2026/mar/31/food-price-rises-unlikely-before-summer-says-boss-of-sainsburys
-     Summary  : Simon Roberts says Easter shop will be unaffected by Middle East conflict, but industry warns prices may rise this yearShoppers will not see food prices rise until at least the summer and Easter will...
+  1. Ecopetrol Board Deadlocks on Roa After 7-Hour Session as COLCAP Extends Slide
+     Source   : Rio Times
+     Published: 2026-03-31 09:06 UTC
+     URL      : https://www.riotimesonline.com/colombia-colcap-ecopetrol-board-deadlock-roa/
+     Summary  : Rio Times Daily Market Brief • Colombia Tuesday, March 31, 2026 · Covering the session of Monday, March 30 The Big Three 1. Ecopetrol&#8217;s board met for seven hours on Monday and failed to reach a...
 
-  2. Bengaluru techie jumps to death from 17th floor after finding partner dead in locked room
+
+================================================================================
+  COUNTRY: Germany  (1 articles)
+================================================================================
+
+  1. International break: Germany's World Cup winners and losers
+     Source   : Deutsche Welle
+     Published: 2026-03-31 08:51 UTC
+     URL      : https://www.dw.com/en/international-break-germany-s-world-cup-winners-and-losers/a-76602965?maca=en-rss-en-all-1573-xml-mrss
+     Summary  : In Germany's final international break before the World Cup, some players made the most of their chances while others missed the opportunity to impress.
+
+
+================================================================================
+  COUNTRY: India  (4 articles)
+================================================================================
+
+  1. 'Consider me your candidate in all 294 seats': Mamata's pitch in Bengal battle
      Source   : Times of India
-     Published: 2026-03-31 07:56 UTC
-     URL      : https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ibm-techie-jumps-to-death-from-17th-floor-after-finding-partner-dead-inside-locked-room/articleshow/129919868.cms
-     Summary  : A techie couple from Telangana died tragically within minutes of each other in Bengaluru's Kothanur area. The husband was found hanging in a locked room, and his wife subsequently jumped from the 17th...
+     Published: 2026-03-31 08:49 UTC
+     URL      : https://timesofindia.indiatimes.com/india/consider-me-your-candidate-in-all-294-seats-mamata-banerjees-pitch-in-bengal-battle/articleshow/129920220.cms
+     Summary  : West Bengal Chief Minister Mamata Banerjee urged voters to support her leadership across all 294 constituencies, positioning herself as the face of the Trinamool Congress. She also alleged that the BJ...
 
-  3. India to begin world’s biggest population count
+  2. Story behind Palmer Luckey’s ‘firing’ from Facebook, co he sold his startup for $2 bn
+     Source   : Times of India
+     Published: 2026-03-31 08:36 UTC
+     URL      : https://timesofindia.indiatimes.com/technology/tech-news/the-story-behind-palmer-luckeys-firing-from-facebook-the-company-he-sold-his-startup-for-2-billion/articleshow/129920638.cms
+     Summary  : Palmer Luckey, Oculus VR's founder, was acquired by Meta for $2 billion at age 21. He later left Meta amid controversy over political donations. Luckey then founded Anduril Industries, a defense-tech...
+
+  3. ‘Deeply painful mishap’: PM Modi, Nitish Kumar announce compensation after Nalanda stampede
+     Source   : Times of India
+     Published: 2026-03-31 08:26 UTC
+     URL      : https://timesofindia.indiatimes.com/india/deeply-painful-pm-modi-bihar-cm-nitish-kumar-announce-compensation-after-nalanda-stampede/articleshow/129920113.cms
+
+  4. India to begin world’s biggest population count
      Source   : Vanguard Nigeria
      Published: 2026-03-31 08:31 UTC
      URL      : https://www.vanguardngr.com/2026/03/india-to-begin-worlds-biggest-population-count/
@@ -76,7 +131,7 @@ Countries : 18
 
 
 ================================================================================
-  COUNTRY: Iran  (5 articles)
+  COUNTRY: Iran  (2 articles)
 ================================================================================
 
   1. Housing market to soften amid Iran war fallout, Nationwide says
@@ -85,29 +140,11 @@ Countries : 18
      URL      : https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss
      Summary  : The lender says the market regained momentum in March, but rising mortgage and energy costs could hit consumer confidence.
 
-  2. PrSM missile used to strike Iran: How much the US has spent on its new weapon
-     Source   : Times of India
-     Published: 2026-03-31 08:00 UTC
-     URL      : https://timesofindia.indiatimes.com/defence/international/prsm-missile-used-to-strike-iran-how-much-the-us-has-spent-on-its-new-weapon/articleshow/129918830.cms
-     Summary  : Operation Epic Fury, a US-led campaign against Iran, commenced with missile strikes on February 28. A new weapon, the Precision Strike Missile (PrSM), was reportedly used in Lamerd, hitting a sports h...
-
-  3. Iran defiant as Trump threatens to destroy oil island
-     Source   : Vanguard Nigeria
-     Published: 2026-03-31 07:42 UTC
-     URL      : https://www.vanguardngr.com/2026/03/iran-defiant-as-trump-threatens-to-destroy-oil-island/
-     Summary  : Iran fired new missiles early Tuesday as it vowed defiance against US President Donald Trump, who threatened to destroy the country's oil export hub of Kharg Island along with power and desalination p...
-
-  4. Eight wounded, cars catch fire in central Israel following strike from Iranian cluster munition
+  2. Eight wounded, cars catch fire in central Israel following strike from Iranian cluster munition
      Source   : Jerusalem Post
      Published: 2026-03-31 09:58 UTC
      URL      : https://www.jpost.com/israel-news/defense-news/article-891733
      Summary  : Emergency services and police are en route to several locations of shrapnel falls.
-
-  5. Today in Sweden: A roundup of the latest news on Tuesday
-     Source   : The Local Sweden
-     Published: 2026-03-31 07:58 UTC
-     URL      : https://www.thelocal.se/20260331/today-in-sweden-a-roundup-of-the-latest-news-on-tuesday-240
-     Summary  : Sweden snubs EU move to post salaries in job ads, Riksbank chief warns of protracted war in Iran, and is this Sweden's ugliest building? Here's the latest news.
 
 
 ================================================================================
@@ -116,21 +153,21 @@ Countries : 18
 
   1. Middle East crisis live: Iran attacks tanker in Dubai; explosions in Tehran and Jerusalem amid wave of strikes
      Source   : The Guardian
-     Published: 2026-03-31 08:17 UTC
+     Published: 2026-03-31 08:39 UTC
      URL      : https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes
      Summary  : Fully loaded Kuwaiti tanker set alight as attacks continue despite Trump’s warning he would obliterate Iran’s energy facilities if the strait of Hormuz was not reopenedKuwaiti tanker hit by Iranian at...
 
-  2. Iran war wipes $120bn off Dubai, Abu Dhabi stock markets
+  2. Palestine weekly wrap: Holy sites remain closed as deadly violence spreads
      Source   : Al Jazeera
-     Published: 2026-03-31 07:57 UTC
-     URL      : https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets?traffic_source=rss
-     Summary  : The UAE&#039;s financial markets have been some of the hardest hit by the fallout of the US-Israel war on Iran.
+     Published: 2026-03-31 08:30 UTC
+     URL      : https://www.aljazeera.com/news/2026/3/31/palestine-weekly-wrap-holy-sites-remain-closed-as-deadly-violence-spreads?traffic_source=rss
+     Summary  : Settler attacks, East Jerusalem evictions, shuttering of sacred sites, as Israeli authorities assert control.
 
-  3. Iran war: What is happening on day 32 of US-Israel attacks?
+  3. Video: Newborns evacuated from Gaza return as toddlers over two years later
      Source   : Al Jazeera
-     Published: 2026-03-31 07:49 UTC
-     URL      : https://www.aljazeera.com/news/2026/3/31/iran-war-what-is-happening-on-day-32-of-us-israel-attacks?traffic_source=rss
-     Summary  : In an exclusive interview with Al Jazeera, Secretary of State Rubio said US war objectives would be achieved in &#039;weeks&#039;.
+     Published: 2026-03-31 08:29 UTC
+     URL      : https://www.aljazeera.com/video/newsfeed/2026/3/31/video-newborns-evacuated-from-gaza-return-as-toddlers-over-two-years-later?traffic_source=rss
+     Summary  : A group of toddlers that evacuated from Gaza in 2023 have returned to their families in emotional reuniting.
 
   4. Some 20,000 new immigrants have arrived in Israel since last Passover
      Source   : Jerusalem Post
@@ -140,10 +177,16 @@ Countries : 18
 
 
 ================================================================================
-  COUNTRY: Japan  (1 articles)
+  COUNTRY: Japan  (2 articles)
 ================================================================================
 
-  1. Akazawa appointed critical-materials czar in response to conflict in the Middle East
+  1. Japanese investors back new VC fund targeting African startups
+     Source   : Japan Times
+     Published: 2026-03-31 08:19 UTC
+     URL      : https://www.japantimes.co.jp/business/2026/03/31/companies/investors-african-startups-fund/
+     Summary  : The backing by large firms underscores the growing interest from the nation in African companies as they contend with a shrinking market and relatively low interest rates at home.
+
+  2. Akazawa appointed critical-materials czar in response to conflict in the Middle East
      Source   : Japan Times
      Published: 2026-03-31 08:12 UTC
      URL      : https://www.japantimes.co.jp/business/2026/03/31/akazawa-critical-supply/
@@ -151,23 +194,12 @@ Countries : 18
 
 
 ================================================================================
-  COUNTRY: Mexico  (1 articles)
-================================================================================
-
-  1. Mexico’s President welcomes FIFA Chief
-     Source   : Al Jazeera
-     Published: 2026-03-31 07:55 UTC
-     URL      : https://www.aljazeera.com/video/newsfeed/2026/3/31/mexicos-president-welcomes-fifa-chief?traffic_source=rss
-     Summary  : Mexican President Claudia Sheinbaum welcomes FIFA Chief Gianni Infantino at the National Palace.
-
-
-================================================================================
-  COUNTRY: New Zealand  (8 articles)
+  COUNTRY: New Zealand  (3 articles)
 ================================================================================
 
   1. Former Manukau City mayor Sir Barry Curtis has died, aged 87
      Source   : RNZ
-     Published: 2026-03-31 08:35 UTC
+     Published: 2026-03-31 08:44 UTC
      URL      : https://www.rnz.co.nz/news/national/591177/former-manukau-city-mayor-sir-barry-curtis-has-died-aged-87
      Summary  : Sir Barry was one of the country's longest serving mayors, leading the city from 1983 to 2007.
 
@@ -183,48 +215,24 @@ Countries : 18
      URL      : https://www.rnz.co.nz/news/national/591132/david-tamihere-s-double-murder-convictions-quashed
      Summary  : The Supreme Court has directed a retrial but says it is up to the Crown to decide whether one should be held.
 
-  4. Car left on ferry first clue person overboard in Cook Strait
-     Source   : RNZ
-     Published: 2026-03-31 08:11 UTC
-     URL      : https://www.rnz.co.nz/news/national/591090/car-left-on-interislander-ferry-first-clue-person-went-overboard-in-cook-strait
-     Summary  : Crew on the Interislander's Kaiārahi were shaken by the incident which happened overnight.
-
-  5. 'Absolutely stoked': Molly the collie found a week after owner's waterfall tumble
-     Source   : RNZ
-     Published: 2026-03-31 08:11 UTC
-     URL      : https://www.rnz.co.nz/news/national/591128/border-collie-found-one-week-after-owner-falls-down-waterfall-in-alpine-backcountry
-     Summary  : "I'm pretty sure she's been munching on the odd possum and she's in pretty good condition, considering," one of her rescuers says.
-
-  6. Government backs down from work from home policy day before court hearing - PSA
-     Source   : RNZ
-     Published: 2026-03-31 08:06 UTC
-     URL      : https://www.rnz.co.nz/news/national/591174/government-backs-down-from-work-from-home-policy-day-before-court-hearing-psa
-     Summary  : The union filed legal action after a MBIE policy restricting flexible work arrangements was introduced.
-
-  7. Health NZ changes advice on Covid-19 vaccinations
-     Source   : RNZ
-     Published: 2026-03-31 08:00 UTC
-     URL      : https://www.rnz.co.nz/news/national/591172/health-nz-changes-advice-on-covid-19-vaccinations
-     Summary  : People between the ages of 30 and 64 no longer needed regular boosters, it said.
-
-  8. Car left on Interislander ferry first clue person went overboard in Cook Strait
-     Source   : RNZ
-     Published: 2026-03-31 07:56 UTC
-     URL      : https://www.rnz.co.nz/news/national/591090/car-left-on-interislander-ferry-first-clue-person-went-overboard-in-cook-strait
-     Summary  : Crew on the Interislander's Kaiārahi were shaken by the incident which happened overnight.
-
 
 ================================================================================
-  COUNTRY: Nigeria  (2 articles)
+  COUNTRY: Nigeria  (3 articles)
 ================================================================================
 
-  1. Tinapa Project: How Obasanjo, Quantity Surveyor saved Cross River ₦3bn — Duke
+  1. 2027: I’m yet to endorse candidates for Rivers, says Wike
+     Source   : Vanguard Nigeria
+     Published: 2026-03-31 08:46 UTC
+     URL      : https://www.vanguardngr.com/2026/03/2027-im-yet-to-endorse-candidates-for-rivers-says-wike/
+     Summary  : "If we were not working together, if we were not united, it would be difficult. People are not happy that we are working together, so they must find anything to make sure we are divided," Wike stated....
+
+  2. Tinapa Project: How Obasanjo, Quantity Surveyor saved Cross River ₦3bn — Duke
      Source   : Vanguard Nigeria
      Published: 2026-03-31 08:23 UTC
      URL      : https://www.vanguardngr.com/2026/03/tinapa-project-how-obasanjo-quantity-surveyor-saved-cross-river-%e2%82%a63bn-duke/
      Summary  : Former Cross River State Governor, Donald Duke, has revealed how the intervention of a Quantity Surveyor and former President Olusegun Obasanjo helped the state save ₦3 billion during the construction...
 
-  2. NEMA, IOM receive 145 returnees from Libya
+  3. NEMA, IOM receive 145 returnees from Libya
      Source   : Vanguard Nigeria
      Published: 2026-03-31 08:22 UTC
      URL      : https://www.vanguardngr.com/2026/03/nema-iom-receive-145-returnees-from-libya/
@@ -232,48 +240,25 @@ Countries : 18
 
 
 ================================================================================
-  COUNTRY: Pakistan  (1 articles)
+  COUNTRY: Poland  (1 articles)
 ================================================================================
 
-  1. PMD forecasts chances of thunderstorms, rain in Karachi, other parts of Sindh on Thursday
-     Source   : Dawn
-     Published: 2026-03-31 08:09 UTC
-     URL      : https://www.dawn.com/news/1987143/pmd-forecasts-chances-of-thunderstorms-rain-in-karachi-other-parts-of-sindh-on-thursday
-     Summary  : The Pakistan Meteorological Department (PMD) has forecast chances of rain and thunderstorms in Karachi on Thursday, as well as other areas of Sindh from April 2-4, as a result of a new westerly wave f...
+  1. Poland’s new maximum petrol station prices go into force
+     Source   : Notes from Poland
+     Published: 2026-03-31 08:59 UTC
+     URL      : https://notesfrompoland.com/2026/03/31/polands-new-maximum-petrol-station-prices-go-into-force/
+     Summary  : Retailers caught selling above the cap face fines of up to 1 million zloty.
 
 
 ================================================================================
-  COUNTRY: Russia  (3 articles)
+  COUNTRY: Russia  (1 articles)
 ================================================================================
 
   1. EU ministers arrive in Ukraine to mark Bucha massacre anniversary – Europe live
      Source   : The Guardian
-     Published: 2026-03-31 08:01 UTC
+     Published: 2026-03-31 08:54 UTC
      URL      : https://www.theguardian.com/world/live/2026/mar/31/europe-ukraine-bucha-eu-russia-hungary-iran-denmark-latest-news-updates
-     Summary  : Delegation marks four years since liberation of town as EU focus returns to Ukraine amid Iran war falloutSeveral EU ministers are expected in Bucha, Ukraine, today to mark the fourth anniversary of th...
-
-  2. Ukraine: Top EU diplomats mark 4 years since Bucha massacre
-     Source   : Deutsche Welle
-     Published: 2026-03-31 08:04 UTC
-     URL      : https://www.dw.com/en/ukraine-top-eu-diplomats-mark-4-years-since-bucha-massacre/a-76602640?maca=en-rss-en-all-1573-xml-mrss
-     Summary  : Brussels' chief diplomat and several EU foreign ministers are in Ukraine to mark four years since one of Russia's most infamous atrocities. The Bucha massacre, just weeks into the full-scale war, shoc...
-
-  3. US says Cuba policy unchanged despite allowing Russian tanker
-     Source   : Al Jazeera
-     Published: 2026-03-31 07:44 UTC
-     URL      : https://www.aljazeera.com/video/newsfeed/2026/3/31/us-says-cuba-policy-unchanged-despite-allowing-russian-tanker?traffic_source=rss
-     Summary  : The White House says US policy toward Cuba remains unchanged despite allowing a sanctioned Russian tanker.
-
-
-================================================================================
-  COUNTRY: Saudi Arabia  (1 articles)
-================================================================================
-
-  1. KSE-100 climbs by over 1,800 points during intraday trade
-     Source   : Dawn
-     Published: 2026-03-31 07:51 UTC
-     URL      : https://www.dawn.com/news/1987138/kse-100-climbs-by-over-1800-points-during-intraday-trade
-     Summary  : The Pakistan Stock Exchange’s KSE-100 index climbed by 1,804.59 points during intraday trade on Tuesday after witnessing a meltdown a day earlier. The KSE-100 index climbed by 1,804.59 points, or 1.23...
+     Summary  : Delegation marks four years since liberation of town as EU focus returns to Ukraine amid Iran war falloutEU top diplomat Kaja Kallas said the Bucha massacre “has come to symbolise the cruelty of Russi...
 
 
 ================================================================================
@@ -294,22 +279,39 @@ Countries : 18
 
 
 ================================================================================
-  COUNTRY: South Africa  (3 articles)
+  COUNTRY: Somalia  (1 articles)
 ================================================================================
 
-  1. Newcastle not looking to make Howe change at moment - CEO
-     Source   : BBC News
-     Published: 2026-03-31 08:00 UTC
-     URL      : https://www.bbc.com/sport/football/articles/c5yxl4l4k74o?at_medium=RSS&at_campaign=rss
-     Summary  : Newcastle United CEO David Hopkinson says he does not have a stance on the future of head coach Eddie Howe, but the club are "not looking to make a change at the moment".
+  1. Somali army takes over key city in Southwest as state leader resigns
+     Source   : Al Jazeera
+     Published: 2026-03-31 08:27 UTC
+     URL      : https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns?traffic_source=rss
+     Summary  : Somali federal government hails Baidoa&#039;s transition, urging peace and unity amid political changes and rising tensions.
 
-  2. ART FROM THE HEART: Cape Town nonprofit Orange Art Project draws foster children into world of creativity
+
+================================================================================
+  COUNTRY: South Africa  (4 articles)
+================================================================================
+
+  1. Kanye West to return to UK for Wireless festival
+     Source   : BBC News
+     Published: 2026-03-31 08:51 UTC
+     URL      : https://www.bbc.com/news/articles/ckgxrkw352no?at_medium=RSS&at_campaign=rss
+     Summary  : It will be his first UK performance in over a decade and since he received criticism for antisemitic comments.
+
+  2. Industry contamination of soil with toxic metals exposes failure to translate science into policy
+     Source   : France 24
+     Published: 2026-03-31 09:02 UTC
+     URL      : https://www.france24.com/en/industry-contamination-of-soil-with-toxic-metals-exposes-failure-to-translate-science-into-policy
+     Summary  : Eve Irvine is pleased to welcome Dr. Jagannath Biswakarma, Honorary Senior Research Associate at the University of Bristol. As an environmental scientist, his work focuses on understanding how human a...
+
+  3. ART FROM THE HEART: Cape Town nonprofit Orange Art Project draws foster children into world of creativity
      Source   : Daily Maverick
      Published: 2026-03-31 10:09 UTC
      URL      : https://www.dailymaverick.co.za/article/2026-03-31-cape-town-nonprofit-orange-art-project-draws-foster-children-into-world-of-creativity/
      Summary  : The Orange Art Project, a Cape Town nonprofit, is inspiring creativity among foster children by facilitating art sessions run by practising artists in homes across the city.
 
-  3. HUNGER FOR CHANGE: Committed to halving food waste by 2030, South Africa doesn’t know if it’s winning
+  4. HUNGER FOR CHANGE: Committed to halving food waste by 2030, South Africa doesn’t know if it’s winning
      Source   : Daily Maverick
      Published: 2026-03-31 09:43 UTC
      URL      : https://www.dailymaverick.co.za/article/2026-03-31-committed-to-halving-food-waste-by-2030-south-africa-doesnt-know-if-its-winning/
@@ -331,70 +333,76 @@ Countries : 18
   COUNTRY: United Kingdom  (5 articles)
 ================================================================================
 
-  1. Hundreds of my abusers are still out there, says victim as grooming inquiry launched
-     Source   : BBC News
-     Published: 2026-03-31 08:10 UTC
-     URL      : https://www.bbc.com/news/articles/cpvxr7wv74mo?at_medium=RSS&at_campaign=rss
-     Summary  : There needs to be accountability for the failings that led to this mass exploitation of children in UK, says survivor.
-
-  2. Three charged with murder over death of girl, 16
+  1. Three charged with murder over death of girl, 16
      Source   : BBC News
      Published: 2026-03-31 08:32 UTC
      URL      : https://www.bbc.com/news/articles/cn0w50dwd2jo?at_medium=RSS&at_campaign=rss
      Summary  : Three people are due to appear in court over the death of Chloe Watson Dransfield in Leeds.
 
-  3. Congressman writes to King Charles urging him to meet Epstein victims during US visit
-     Source   : BBC News
-     Published: 2026-03-31 07:55 UTC
-     URL      : https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss
-     Summary  : While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.
+  2. UK aviation regulator rejects Heathrow’s plans to significantly raise landing fees
+     Source   : The Guardian
+     Published: 2026-03-31 08:51 UTC
+     URL      : https://www.theguardian.com/uk-news/2026/mar/31/uk-aviation-regulator-caa-rejects-heathrow-plans-raise-landing-fees
+     Summary  : Heathrow wanted changes to fund multi-billion pound upgrade, but airlines had warned steep rises would be passed on to passengersBusiness live – latest updatesThe UK aviation regulator has partially r...
 
-  4. Arsenal's 11 international withdrawals - injury crisis or crafty caution?
-     Source   : BBC News
-     Published: 2026-03-31 07:49 UTC
-     URL      : https://www.bbc.com/sport/football/articles/cedeyw01031o?at_medium=RSS&at_campaign=rss
-     Summary  : With 11 Arsenal players withdrawing from international duty, are the Gunners facing an injury crisis or are they simply being cautious?
+  3. Scott Mills was questioned by police over sexual offence allegations in 2018
+     Source   : The Guardian
+     Published: 2026-03-31 08:49 UTC
+     URL      : https://www.theguardian.com/media/2026/mar/31/scott-mills-sacked-questioned-police-sexual-offence-allegations-2016-bbc-radio-2
+     Summary  : Former Radio 2 presenter reportedly investigated over relationship with teenage boy but case closed through lack of evidenceScott Mills was questioned over allegations of serious sexual offences again...
+
+  4. BMA dismisses Starmer’s 48-hour warning over resident doctors’ strike plan – UK politics live
+     Source   : The Guardian
+     Published: 2026-03-31 08:48 UTC
+     URL      : https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates
+     Summary  : Prime minister threatens to withdraw NHS training posts for residents doctors if they don’t call off strikeThe grooming gangs inquiry will directly examine whether ethnicity, culture or religion influ...
 
   5. Grooming gangs inquiry to examine role of ethnicity, culture and religion
      Source   : The Guardian
      Published: 2026-03-31 08:17 UTC
      URL      : https://www.theguardian.com/uk-news/2026/mar/31/grooming-gangs-inquiry-examine-role-ethnicity-culture-religion
-     Summary  : Inquiry will directly look at whether factors influenced offending and institutional response in England and WalesThe grooming gangs inquiry will directly examine whether ethnicity, culture or religio...
+     Summary  : Inquiry will directly look at whether factors influenced offending and institutional response in England and WalesUK politics live – latest updatesThe grooming gangs inquiry will directly examine whet...
 
 
 ================================================================================
-  COUNTRY: United States  (5 articles)
+  COUNTRY: United States  (6 articles)
 ================================================================================
 
-  1. Thousands of Chinese social media users change profile photos to Kris Jenner
-     Source   : ABC Australia
-     Published: 2026-03-31 07:55 UTC
-     URL      : https://www.abc.net.au/news/2026-03-31/kris-jenner-profile-pictures-trend-on-chinese-social-media/106515938
-     Summary  : Thousands of Chinese social media users have started using images of US celebrity Kris Jenner as their profile photos in hopes it will bring them success and good fortune.
+  1. Born out of the Civil Rights era, the EEOC pivots toward protecting white people
+     Source   : NPR
+     Published: 2026-03-31 09:00 UTC
+     URL      : https://www.npr.org/2026/03/31/nx-s1-5763966/eeoc-trump-white-men-civil-rights-dei-discrimination
+     Summary  : Andrea Lucas, the Trump-appointed chair of the Equal Employment Opportunity Commission, has set a new agenda for an agency that long prioritized vulnerable and underserved workers.
 
-  2. Reporters protest as Kerala CM Pinarayi Vijayan answers select queries
-     Source   : Times of India
-     Published: 2026-03-31 07:44 UTC
-     URL      : https://timesofindia.indiatimes.com/city/thiruvananthapuram/reporters-protest-as-kerala-cm-pinarayi-vijayan-answers-select-queries/articleshow/129919637.cms
-     Summary  : In a heated exchange in Kollam, Chief Minister Pinarayi Vijayan found himself at odds with reporters following a press conference. Amid accusations of favoritism towards CPM-aligned media, Vijayan was...
+  2. The final batch of World Cup tickets is about to go on sale. Here are 5 things to know
+     Source   : NPR
+     Published: 2026-03-31 09:00 UTC
+     URL      : https://www.npr.org/2026/03/31/nx-s1-5727893/prices-tickets-fifa-world-cup-last-minute
+     Summary  : FIFA is kicking off its last sales for World Cup tickets on Wednesday. From prices to why FOMO is working against you, here's what you need to know.
 
-  3. Ibovespa Bounces as Oil Surges Past $107
+  3. Babies are an afterthought in the birthright citizenship case, advocates say
+     Source   : NPR
+     Published: 2026-03-31 09:00 UTC
+     URL      : https://www.npr.org/2026/03/31/nx-s1-5761354/birthright-citizenship-child-health-medicaid-social-security
+     Summary  : An end to birthright citizenship would mean a new layer of bureaucracy for all babies born in the U.S., and could cause delays for health insurance and other benefits.
+
+  4. Morning news brief
+     Source   : NPR
+     Published: 2026-03-31 08:42 UTC
+     URL      : https://www.npr.org/2026/03/31/nx-s1-5759075/morning-news-brief
+     Summary  : Iran opens Strait of Hormuz to some ships as Gulf countries face strikes, Trump's mixed messages on the war in Iran could hurt the GOP, TSA officers are receiving back pay as DHS remains unfunded.
+
+  5. Ibovespa Bounces as Oil Surges Past $107
      Source   : Rio Times
      Published: 2026-03-31 08:39 UTC
      URL      : https://www.riotimesonline.com/ibovespa-bounces-oil-surges-107-kharg-island-vix-30/
      Summary  : B3 / Ibovespa Daily Report · March 31, 2026 · Covering March 30 Session Ibovespa 182,514 ▲ +0.53% · +957 pts H: 184,414 · L: 181,559 USD/BRL R$ 5.2510 ▼ −0.02% · flat Real holding steady Brent Crude $...
 
-  4. Latin American Pulse for Tuesday, March 31, 2026
+  6. Latin American Pulse for Tuesday, March 31, 2026
      Source   : Rio Times
      Published: 2026-03-31 08:13 UTC
      URL      : https://www.riotimesonline.com/latam-pulse-cerron-vote-cuba-oil-embassy-caracas/
      Summary  : Peru&#8217;s Constitutional Tribunal Votes Today on Cerrón Habeas Corpus — A Leaked Draft Ruling Would Free the Fugitive Candidate 12 Days Before the Election — Brazil&#8217;s Central Bank Publishes D...
-
-  5. Brazil’s Morning Call for Tuesday, March 31, 2026
-     Source   : Rio Times
-     Published: 2026-03-31 08:03 UTC
-     URL      : https://www.riotimesonline.com/brazils-financial-morning-call-q1-ends-powell-holds/
-     Summary  : TODAY&#8217;S FOCUS Q1 Ends With a Whimper in New York, a Shrug in São Paulo Today&#8217;s Brazil&#8217;s Financial Morning Call marks the final session of Q1 2026 — a quarter reshaped entirely by war...
 
 
 ================================================================================

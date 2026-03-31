@@ -14,11 +14,21 @@ use std::sync::Arc;
 use std::time::Duration;
 use tokio::sync::RwLock;
 
-const INTERVAL_MINS: u64 = 5;
-const BIND_ADDR: &str = "0.0.0.0:3000";
-
 #[tokio::main]
 async fn main() {
+    dotenvy::dotenv().ok(); // load .env if present (ignored in production)
+
+    let port: u16 = std::env::var("PORT")
+        .unwrap_or_else(|_| "3000".into())
+        .parse()
+        .expect("PORT must be a number");
+
+    let interval_mins: u64 = std::env::var("SCRAPE_INTERVAL_MINS")
+        .unwrap_or_else(|_| "5".into())
+        .parse()
+        .expect("SCRAPE_INTERVAL_MINS must be a number");
+
+    let bind_addr = format!("0.0.0.0:{port}");
     let state: SharedState = Arc::new(RwLock::new(AppState {
         by_country: BTreeMap::new(),
         last_updated: String::from("Never"),
@@ -39,7 +49,7 @@ async fn main() {
         let state = Arc::clone(&state);
         tokio::spawn(async move {
             loop {
-                tokio::time::sleep(Duration::from_secs(INTERVAL_MINS * 60)).await;
+                tokio::time::sleep(Duration::from_secs(interval_mins * 60)).await;
                 println!("[{}] Running scheduled scrape...", timestamp());
                 run_scrape(&client, &state).await;
             }
@@ -56,8 +66,8 @@ async fn main() {
         .route("/api/news", get(api::get_news))
         .with_state(Arc::clone(&state));
 
-    println!("Server running → http://localhost:3000");
-    let listener = tokio::net::TcpListener::bind(BIND_ADDR)
+    println!("Server running → http://localhost:{port}");
+    let listener = tokio::net::TcpListener::bind(&bind_addr)
         .await
         .expect("Failed to bind");
     axum::serve(listener, app).await.unwrap();
