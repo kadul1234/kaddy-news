@@ -1,12 +1,14 @@
 mod api;
 mod categorizer;
+mod groww;
 mod models;
 mod scraper;
 mod storage;
 
 use axum::{routing::get, Router};
 use chrono::Utc;
-use models::{AppState, SharedState};
+use groww::GrowwRepository;
+use models::{AppState, MarketData, SharedState};
 use reqwest::Client;
 use std::collections::BTreeMap;
 use std::path::Path;
@@ -32,6 +34,10 @@ async fn main() {
     let state: SharedState = Arc::new(RwLock::new(AppState {
         by_country: BTreeMap::new(),
         last_updated: String::from("Never"),
+        market: MarketData {
+            indices: Vec::new(),
+            updated: String::from("Never"),
+        },
     }));
 
     let client = Client::builder()
@@ -56,6 +62,24 @@ async fn main() {
         });
     }
 
+    // Initial Groww market data fetch
+    println!("Fetching Groww market data...");
+    let groww_repo = GrowwRepository::new(client.clone());
+    run_market_fetch(&groww_repo, &state).await;
+
+    // Background market data refresh every 5 minutes
+    {
+        let groww_repo = GrowwRepository::new(client.clone());
+        let state = Arc::clone(&state);
+        tokio::spawn(async move {
+            loop {
+                tokio::time::sleep(Duration::from_secs(5 * 60)).await;
+                println!("[{}] Refreshing Groww market data...", timestamp());
+                run_market_fetch(&groww_repo, &state).await;
+            }
+        });
+    }
+
     let app = Router::new()
         .route("/", get(api::index))
         .route("/style.css", get(api::stylesheet))
@@ -64,6 +88,7 @@ async fn main() {
         .route("/india-official.geojson", get(api::india_boundary))
         .route("/api/countries", get(api::get_countries))
         .route("/api/news", get(api::get_news))
+        .route("/api/market", get(api::get_market))
         .with_state(Arc::clone(&state));
 
     println!("Server running → http://localhost:{port}");
@@ -130,6 +155,15 @@ async fn run_scrape(client: &Client, state: &SharedState) {
         lock.by_country.len(),
         lock.last_updated
     );
+}
+
+async fn run_market_fetch(groww: &GrowwRepository, state: &SharedState) {
+    let indices = groww.fetch_market_indices().await;
+    let count = indices.len();
+    let mut lock = state.write().await;
+    lock.market.indices = indices;
+    lock.market.updated = Utc::now().format("%Y-%m-%d %H:%M UTC").to_string();
+    println!("  Groww: {} indices updated at {}", count, lock.market.updated);
 }
 
 fn timestamp() -> String {

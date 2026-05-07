@@ -7,7 +7,7 @@ use axum::{
 };
 use serde::{Deserialize, Serialize};
 
-use crate::models::{Article, SharedState};
+use crate::models::{Article, MarketData, SharedState};
 
 pub async fn index() -> Html<&'static str> {
     Html(include_str!("../static/index.html"))
@@ -86,4 +86,9 @@ pub async fn get_news(
     let lock = state.read().await;
     let articles = lock.by_country.get(&q.country).cloned().unwrap_or_default();
     Json(articles)
+}
+
+pub async fn get_market(State(state): State<SharedState>) -> Json<MarketData> {
+    let lock = state.read().await;
+    Json(lock.market.clone())
 }
